@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  cotzig_solver
+//  kotzig_solver
 //
 //  Created by Thomas Yata on 2016/02/17.
 //  Copyright © 2016年 Thomas Yata. All rights reserved.
